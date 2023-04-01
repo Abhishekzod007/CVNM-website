@@ -52,7 +52,7 @@ export default function Contact() {
                     src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1789.1754127753475!2d78.17182665807128!3d26.25027499585435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjbCsDE1JzAxLjAiTiA3OMKwMTAnMjIuNSJF!5e0!3m2!1sen!2sin!4v1680289194024!5m2!1sen!2sin"
                     width="1000"
                     height="450"
-                    className="border-0 mt-32"
+                    className="border-0 mt-32 mobile:w-[80vw]"
                     allowFullScreen={false}
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"></iframe>
