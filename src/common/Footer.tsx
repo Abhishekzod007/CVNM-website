@@ -56,16 +56,15 @@ const navLinks = [[
 export default function Footer() {
     return (
         <>
-            <footer className='mt-20 flex p-page py-10 justify-between bg-foreground text-back min-h-[40vh]'>
+            <footer className='mt-20 flex p-page py-10 justify-between bg-foreground text-back min-h-[40vh] mobile:flex-col'>
                 <div className="self-center">
-                    <h1 className='text-6xl italic'>CV&M</h1>
+                    <h1 className='text-6xl mobile:text-5xl widescreen:italic mobile:text-center'>CV&M</h1>
                     <p className='text-sm my-2'>Computer Vision and Multimedia</p>
                 </div>
-                <nav className="flex items-center  p-page py-4 ">
-
+                <nav className="flex items-center widescreen:p-page py-4 ">
                     <div className="flex flex-col items-center gap-y-8">
                         <h1 className='flex text-3xl font-semibold font-raleway'>Useful Links</h1>
-                        <div className="flex  gap-x-32 text-lg">
+                        <div className="flex widescreen:gap-x-32 mobile:gap-x-8 mobile:justify-between text-lg">
                             {navLinks.map(sect => <div className='flex flex-col gap-y-3'>
                                 {sect.map(link => <a href={link.to} className="duration-500 text-[15px] hover:text-front" >{link.title}</a>)}
                             </div>)}

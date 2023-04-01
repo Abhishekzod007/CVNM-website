@@ -10,7 +10,7 @@
 
 @layer utilities {
     .p-page {
-        @apply px-[6vw]
+        @apply px-[6vw] mobile:px-[3vw]
     }
 
     .absolute-center {
