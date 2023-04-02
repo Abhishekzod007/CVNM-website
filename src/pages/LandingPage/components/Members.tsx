@@ -8,7 +8,7 @@ export default function Members() {
 
   return (
     <>
-    <div className="mobile:h-20" />
+    <div className="mobile:h-48" />
       <section className="my-10 p-page">
         <h1 className="font-raleway text-center text-6xl font-medium my-8 mobile:mt-12">
           Group Leader

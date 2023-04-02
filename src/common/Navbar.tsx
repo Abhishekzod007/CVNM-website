@@ -86,7 +86,7 @@ export default function Navbar() {
                 {link.title}
               </a>
             ))}
-            <a href="/#members">Members</a>
+            <a href="/#members-0">Members</a>
             <a href="/#contact" className="duration-500 hover:text-back">
               Contact
             </a>
