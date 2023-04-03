@@ -82,8 +82,8 @@ export default function Navbar() {
         >
           <div className="flex flex-col items-center gap-x-10 bg-primary py-5 text-lg">
             {navLinks.map((link) => (
-              <a href={link.to} className="duration-500 hover:text-back">
-                {link.title}
+              <a href={link.to} key={link.to} className="duration-500 hover:text-back">
+                {link.title} 
               </a>
             ))}
             <a href="/#members-0">Members</a>

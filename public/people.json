@@ -121,41 +121,5 @@
             1,
             2
         ]
-    },
-    {
-        "id": 7,
-        "name": "Prof. Mahua Bhattacharya",
-        "title": "Mtech.",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1533047541_mahuabhatt.jpg",
-        "email": "mb@iiitm.ac.in",
-        "researchArea": [
-            "Medical image processing",
-            "soft computing",
-            "pattern recognition",
-            "artificial intelligence"
-        ],
-        "projects": [
-            0,
-            1,
-            2
-        ]
-    },
-    {
-        "id": 8,
-        "name": "Prof. Mahua Bhattacharya",
-        "title": "Mtech.",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1533047541_mahuabhatt.jpg",
-        "email": "mb@iiitm.ac.in",
-        "researchArea": [
-            "Medical image processing",
-            "soft computing",
-            "pattern recognition",
-            "artificial intelligence"
-        ],
-        "projects": [
-            0,
-            1,
-            2
-        ]
     }
 ]

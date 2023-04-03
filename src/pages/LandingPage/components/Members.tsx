@@ -50,9 +50,10 @@ export default function Members() {
           <section className="my-10 p-page text-center flex flex-wrap justify-evenly gap-y-8 items-stretch">
             {department.members.map((personId) => {
               const person = api.getPerson(personId);
+              if (!person) {return <></>}
               return (
                 <div className="widescreen:p-6 mobile:pb-5 rounded-lg shadow-md border border-front flex flex-col items-center w-[27%] mobile:w-[45%]
-                 border-opacity-30 overflow-hidden duration-500 hover:scale-105">
+                 border-opacity-30 overflow-hidden duration-500 hover:scale-105" key={person.id}>
                   <img
                     className="widescreen:rounded-full aspect-square object-cover widescreen:w-2/3 widescreen:my-5"
                     src={person.imageUrl}
