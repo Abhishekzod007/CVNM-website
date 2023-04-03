@@ -8,7 +8,7 @@ export default function Members() {
 
   return (
     <>
-    <div className="mobile:h-20" />
+      <div className="mobile:h-20" />
       <section className="my-10 p-page">
         <h1 className="font-raleway text-center text-6xl font-medium my-8 mobile:mt-12">
           Group Leader
@@ -64,8 +64,8 @@ export default function Members() {
                     {" "}
                     {person.title}{" "}
                   </p>
-                  <p className="flex gap-x-2 mobile:text-xs whitespace-nowrap">
-                    Email :{" "} 
+                  <p className="flex gap-x-2 mobile:text-xs whitespace-nowrap mb-2">
+                    Email :{" "}
                     <a
                       className="text-secondary"
                       href={`mailto:${person.email}`}
@@ -73,6 +73,10 @@ export default function Members() {
                       {person.email}
                     </a>
                   </p>
+                  <p className="mb-2"><span className="font-bold">Research Themes : </span> {person.researchArea.join(", ")}</p>
+                  <p><span className="font-bold">Projects : </span> {api.getPersonProjectNames(person.id).join(", ")}</p>
+
+
                 </div>
               );
             })}

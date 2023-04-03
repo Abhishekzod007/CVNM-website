@@ -19,9 +19,9 @@
     },
     {
         "id": 1,
-        "name": "Prof. Mahua Bhattacharya",
+        "name": "Prof. Sunil Kumar",
         "title": "Ph. D (Tech)",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1533047541_mahuabhatt.jpg",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1677819537_SNK.png",
         "email": "mb@iiitm.ac.in",
         "researchArea": [
             "Medical image processing",
@@ -37,9 +37,9 @@
     },
     {
         "id": 2,
-        "name": "Prof. Mahua Bhattacharya",
+        "name": "Prof. Anuja Dixit",
         "title": "Ph. D (Tech)",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1533047541_mahuabhatt.jpg",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1677496848_3_Anuja%20Dixit.jpg",
         "email": "mb@iiitm.ac.in",
         "researchArea": [
             "Medical image processing",
@@ -55,9 +55,9 @@
     },
     {
         "id": 3,
-        "name": "Prof. Mahua Bhattacharya",
+        "name": "Shaeen",
         "title": "Ph. D (Tech)",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1533047541_mahuabhatt.jpg",
+        "imageUrl": "/images/Shaheen.jpg",
         "email": "mb@iiitm.ac.in",
         "researchArea": [
             "Medical image processing",
@@ -73,9 +73,9 @@
     },
     {
         "id": 4,
-        "name": "Prof. Mahua Bhattacharya",
+        "name": "Ashwini Padhi",
         "title": "Ph. D (Tech)",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1533047541_mahuabhatt.jpg",
+        "imageUrl": "/images/Ashwini.jpg",
         "email": "mb@iiitm.ac.in",
         "researchArea": [
             "Medical image processing",
@@ -91,15 +91,12 @@
     },
     {
         "id": 5,
-        "name": "Prof. Mahua Bhattacharya",
-        "title": "Ph. D (Tech)",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1533047541_mahuabhatt.jpg",
-        "email": "mb@iiitm.ac.in",
+        "name": "Akshay Khatri",
+        "title": "Mtech.",
+        "imageUrl": "/images/akshay.jpg",
+        "email": "akshaykhatri401@gmail.com",
         "researchArea": [
-            "Medical image processing",
-            "soft computing",
-            "pattern recognition",
-            "artificial intelligence"
+            "Text-to SQL parsing "
         ],
         "projects": [
             0,
@@ -109,9 +106,9 @@
     },
     {
         "id": 6,
-        "name": "Prof. Mahua Bhattacharya",
-        "title": "Ph. D (Tech)",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1533047541_mahuabhatt.jpg",
+        "name": "Srinivas Sundari",
+        "title": "Mtech.",
+        "imageUrl": "/images/Nandu.jpg",
         "email": "mb@iiitm.ac.in",
         "researchArea": [
             "Medical image processing",
@@ -128,7 +125,7 @@
     {
         "id": 7,
         "name": "Prof. Mahua Bhattacharya",
-        "title": "Ph. D (Tech)",
+        "title": "Mtech.",
         "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1533047541_mahuabhatt.jpg",
         "email": "mb@iiitm.ac.in",
         "researchArea": [
@@ -146,25 +143,7 @@
     {
         "id": 8,
         "name": "Prof. Mahua Bhattacharya",
-        "title": "Ph. D (Tech)",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1533047541_mahuabhatt.jpg",
-        "email": "mb@iiitm.ac.in",
-        "researchArea": [
-            "Medical image processing",
-            "soft computing",
-            "pattern recognition",
-            "artificial intelligence"
-        ],
-        "projects": [
-            0,
-            1,
-            2
-        ]
-    },
-    {
-        "id": 9,
-        "name": "Prof. Mahua Bhattacharya",
-        "title": "Ph. D (Tech)",
+        "title": "Mtech.",
         "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1533047541_mahuabhatt.jpg",
         "email": "mb@iiitm.ac.in",
         "researchArea": [
