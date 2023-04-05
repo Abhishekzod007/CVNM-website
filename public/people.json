@@ -15,7 +15,8 @@
             0,
             1,
             2
-        ]
+        ],
+        "contact": 50985093883
     },
     {
         "id": 1,
@@ -33,7 +34,8 @@
             0,
             1,
             2
-        ]
+        ],
+        "contact": 8472842090
     },
     {
         "id": 2,
@@ -51,14 +53,15 @@
             0,
             1,
             2
-        ]
+        ],
+        "contact": 8472842090
     },
     {
         "id": 3,
         "name": "Shaeen",
         "title": "Ph. D (Tech)",
         "imageUrl": "/images/Shaheen.jpg",
-        "email": "mb@iiitm.ac.in",
+        "email": " shaheenusmani57@gmail.com ",
         "researchArea": [
             "Medical image processing",
             "soft computing",
@@ -69,14 +72,15 @@
             0,
             1,
             2
-        ]
+        ],
+        "contact": 9926008555
     },
     {
         "id": 4,
         "name": "Ashwini Padhi",
         "title": "Ph. D (Tech)",
         "imageUrl": "/images/Ashwini.jpg",
-        "email": "mb@iiitm.ac.in",
+        "email": "aswinikumarpadhi1995@gmail.com",
         "researchArea": [
             "Medical image processing",
             "soft computing",
@@ -87,7 +91,8 @@
             0,
             1,
             2
-        ]
+        ],
+        "contact": 7978014958
     },
     {
         "id": 5,
@@ -102,14 +107,15 @@
             0,
             1,
             2
-        ]
+        ],
+        "contact": 7792092440
     },
     {
         "id": 6,
         "name": "Srinivas Sundari",
         "title": "Mtech.",
         "imageUrl": "/images/Nandu.jpg",
-        "email": "mb@iiitm.ac.in",
+        "email": "srinivasnanduri82@gmail.com ",
         "researchArea": [
             "Medical image processing",
             "soft computing",
@@ -120,6 +126,64 @@
             0,
             1,
             2
-        ]
+        ],
+        "contact": 7660864218
+    },
+    {
+        "id": 7,
+        "name": "Vishnu Raj",
+        "title": "Mtech.",
+        "imageUrl": "/images/vishnu.jpg",
+        "email": "gvishnuraj01@gmail.com ",
+        "researchArea": [
+            "Medical image processing",
+            "soft computing",
+            "pattern recognition",
+            "artificial intelligence"
+        ],
+        "projects": [
+            0,
+            1,
+            2
+        ],
+        "contact": 9359928249
+    },
+    {
+        "id": 8,
+        "name": "Nipani Shree",
+        "title": "Mtech.",
+        "imageUrl": "/images/Nipani Shree.jpg",
+        "email": "nipanishree@gmail.com ",
+        "researchArea": [
+            "Medical image processing",
+            "soft computing",
+            "pattern recognition",
+            "artificial intelligence"
+        ],
+        "projects": [
+            0,
+            1,
+            2
+        ],
+        "contact": 9304521526
+    },
+    {
+        "id": 9,
+        "name": "Nishant",
+        "title": "Mtech.",
+        "imageUrl": "/images/Nishant_pic.jpg",
+        "email": "nishprihar@gmail.com ",
+        "researchArea": [
+            "Medical image processing",
+            "soft computing",
+            "pattern recognition",
+            "artificial intelligence"
+        ],
+        "projects": [
+            0,
+            1,
+            2
+        ],
+        "contact": 7987329862
     }
 ]

@@ -12,6 +12,7 @@ export interface Person {
     email: string;
     researchArea: string[];
     projects: number[];
+    contact: string;
 }
 
 export interface News {
