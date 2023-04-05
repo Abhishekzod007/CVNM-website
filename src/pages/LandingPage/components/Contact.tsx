@@ -2,8 +2,8 @@ export default function Contact() {
   const contactInfo = {
     mobile: "+91 9321878188",
     address:
-      "46, chaudhary ka kotha, hostel of BH1, pepal vatika ke bajui me, morea link road, gwalior, iiitm campus",
-    email: ["chu@ti.ya", "gaa@nd.uu"],
+      "46, morea link road, gwalior, iiitm campus",
+    email: ["", ""],
   };
 
   return (
